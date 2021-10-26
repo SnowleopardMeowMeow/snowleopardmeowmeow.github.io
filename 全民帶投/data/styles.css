@@ -1,0 +1,164 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.ellipse {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.shape {
+}
+._一級標題 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二級標題 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三級標題 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四級標題 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五級標題 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六級標題 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.line {
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
+.table_cell {
+}
+.connector {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+._表單提示 {
+  color:#999999;
+}
+._表單禁用 {
+}
+._流程形狀 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.icon {
+}
+.box_2 {
+}
+.box_1 {
+}
+.box_3 {
+}
+.image {
+}
+._图片 {
+  color:#000000;
+}
+._文本段落1 {
+  text-align:left;
+}
+._形狀 {
+}
+._線段 {
+}
+._表單禁用1 {
+  color:#000000;
+}
+._形狀1 {
+  font-size:13px;
+  color:#000000;
+}
+._文本框 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._單選按鈕 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._圖片_ {
+  color:#000000;
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.flow_shape {
+}
+textarea, select, input, button { outline: none; }
